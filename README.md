@@ -1,2 +1,0 @@
-# ClienteAssets
-Assets Cliente
